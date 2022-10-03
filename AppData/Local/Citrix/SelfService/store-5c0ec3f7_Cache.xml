@@ -1,0 +1,110 @@
+<resources version="Provider-20.2.0.9" supportsSubscription="true" hash="25369831" whash="25369831">
+  <resource>
+    <FriendlyName>Balans Centrale 2017</FriendlyName>
+    <Description>
+    </Description>
+    <ServerState>NotSpecified</ServerState>
+    <resourceType>Application</resourceType>
+    <Category>
+    </Category>
+    <startmenupath>
+    </startmenupath>
+    <RecommendedMode>None</RecommendedMode>
+    <showondesktop>False</showondesktop>
+    <showonstartmenu>False</showonstartmenu>
+    <SubscriptionResponseReason>
+    </SubscriptionResponseReason>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID "store-5c0ec3f7@@XA7.Balans Centrale" -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkJhbGFucyBDZW50cmFsZQ--/launch/ica -cmdline</LaunchCommandLine>
+    <internalName>XA7.Balans Centrale</internalName>
+    <SubscriptionUrl>https://storefront.ap.be/Citrix/Store/resources/v2/subscriptions/WEE3LkJhbGFucyBDZW50cmFsZQ--</SubscriptionUrl>
+    <icaLaunchUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkJhbGFucyBDZW50cmFsZQ--/launch/ica</icaLaunchUrl>
+    <baseImageUrl>https://storefront.ap.be/Citrix/Store/resources/v2/dzEyUndsY1VydU9GNFJXTDhLQWR2RHBDdE9NPQ--/image</baseImageUrl>
+    <iconUrl>https://storefront.ap.be/Citrix/Store/resources/v2/dzEyUndsY1VydU9GNFJXTDhLQWR2RHBDdE9NPQ--/icon</iconUrl>
+    <resourceUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkJhbGFucyBDZW50cmFsZQ--</resourceUrl>
+    <clientTypes>ica30,rdp</clientTypes>
+    <contentAddress>
+    </contentAddress>
+    <FilesStorageDomains />
+    <radeLicenseType>Online</radeLicenseType>
+    <radeOfflineMode>None</radeOfflineMode>
+    <WorkflowTypes>NoneOrImmediate</WorkflowTypes>
+    <AggregatedResource>False</AggregatedResource>
+    <PublisherResourceId>Balans Centrale</PublisherResourceId>
+    <PublisherName>
+    </PublisherName>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID "store-5c0ec3f7@@XA7.Balans Centrale" -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkJhbGFucyBDZW50cmFsZQ--/launch/ica -cmdline</LaunchCommandLine>
+    <VPNLaunchHint>False</VPNLaunchHint>
+  </resource>
+  <resource>
+    <FriendlyName>E-campus2016</FriendlyName>
+    <Description>
+    </Description>
+    <ServerState>NotSpecified</ServerState>
+    <resourceType>Desktop</resourceType>
+    <Category>
+    </Category>
+    <startmenupath>
+    </startmenupath>
+    <RecommendedMode>None</RecommendedMode>
+    <showondesktop>False</showondesktop>
+    <showonstartmenu>False</showonstartmenu>
+    <SubscriptionResponseReason>
+    </SubscriptionResponseReason>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID "store-5c0ec3f7@@XA7.E-campus2016 $S7-12" -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkUtY2FtcHVzMjAxNiAkUzctMTI-/launch/ica -cmdline</LaunchCommandLine>
+    <internalName>XA7.E-campus2016 $S7-12</internalName>
+    <SubscriptionUrl>https://storefront.ap.be/Citrix/Store/resources/v2/subscriptions/WEE3LkUtY2FtcHVzMjAxNiAkUzctMTI-</SubscriptionUrl>
+    <icaLaunchUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkUtY2FtcHVzMjAxNiAkUzctMTI-/launch/ica</icaLaunchUrl>
+    <baseImageUrl>https://storefront.ap.be/Citrix/Store/resources/v2/M3dOMUdNRkV0T0d0a0NrYTI3clh0bkN2Q1dST1lSdThWSVVBTWZSVlRidz0-/image</baseImageUrl>
+    <iconUrl>https://storefront.ap.be/Citrix/Store/resources/v2/M3dOMUdNRkV0T0d0a0NrYTI3clh0bkN2Q1dST1lSdThWSVVBTWZSVlRidz0-/icon</iconUrl>
+    <resourceUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkUtY2FtcHVzMjAxNiAkUzctMTI-</resourceUrl>
+    <clientTypes>ica30,rdp</clientTypes>
+    <contentAddress>
+    </contentAddress>
+    <FilesStorageDomains />
+    <radeLicenseType>Online</radeLicenseType>
+    <radeOfflineMode>None</radeOfflineMode>
+    <WorkflowTypes>NoneOrImmediate</WorkflowTypes>
+    <AggregatedResource>False</AggregatedResource>
+    <PublisherResourceId>E-campus2016 $S7-12</PublisherResourceId>
+    <PublisherName>
+    </PublisherName>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID "store-5c0ec3f7@@XA7.E-campus2016 $S7-12" -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LkUtY2FtcHVzMjAxNiAkUzctMTI-/launch/ica -cmdline</LaunchCommandLine>
+    <VPNLaunchHint>False</VPNLaunchHint>
+  </resource>
+  <resource>
+    <FriendlyName>Pharmacopea</FriendlyName>
+    <Description>
+    </Description>
+    <ServerState>NotSpecified</ServerState>
+    <resourceType>Application</resourceType>
+    <Category>
+    </Category>
+    <startmenupath>
+    </startmenupath>
+    <RecommendedMode>None</RecommendedMode>
+    <showondesktop>False</showondesktop>
+    <showonstartmenu>False</showonstartmenu>
+    <SubscriptionResponseReason>
+    </SubscriptionResponseReason>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID store-5c0ec3f7@@XA7.Pharmacopea -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LlBoYXJtYWNvcGVh/launch/ica -cmdline</LaunchCommandLine>
+    <internalName>XA7.Pharmacopea</internalName>
+    <SubscriptionUrl>https://storefront.ap.be/Citrix/Store/resources/v2/subscriptions/WEE3LlBoYXJtYWNvcGVh</SubscriptionUrl>
+    <icaLaunchUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LlBoYXJtYWNvcGVh/launch/ica</icaLaunchUrl>
+    <baseImageUrl>https://storefront.ap.be/Citrix/Store/resources/v2/UDV6cHFUWUt2VC9nWmRZeUhBbHpZNGF6dG9vPQ--/image</baseImageUrl>
+    <iconUrl>https://storefront.ap.be/Citrix/Store/resources/v2/UDV6cHFUWUt2VC9nWmRZeUhBbHpZNGF6dG9vPQ--/icon</iconUrl>
+    <resourceUrl>https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LlBoYXJtYWNvcGVh</resourceUrl>
+    <clientTypes>ica30,rdp</clientTypes>
+    <contentAddress>
+    </contentAddress>
+    <FilesStorageDomains />
+    <radeLicenseType>Online</radeLicenseType>
+    <radeOfflineMode>None</radeOfflineMode>
+    <WorkflowTypes>NoneOrImmediate</WorkflowTypes>
+    <AggregatedResource>False</AggregatedResource>
+    <PublisherResourceId>Pharmacopea</PublisherResourceId>
+    <PublisherName>
+    </PublisherName>
+    <LaunchCommandLine>-launch -s store-5c0ec3f7 -CitrixID store-5c0ec3f7@@XA7.Pharmacopea -ica https://storefront.ap.be/Citrix/Store/resources/v2/WEE3LlBoYXJtYWNvcGVh/launch/ica -cmdline</LaunchCommandLine>
+    <VPNLaunchHint>False</VPNLaunchHint>
+  </resource>
+</resources>

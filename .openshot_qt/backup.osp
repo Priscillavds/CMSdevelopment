@@ -1,0 +1,136 @@
+{
+ "id": "85RNQNEQJW",
+ "fps": {
+  "num": 30,
+  "den": 1
+ },
+ "display_ratio": {
+  "num": 16,
+  "den": 9
+ },
+ "pixel_ratio": {
+  "num": 1,
+  "den": 1
+ },
+ "width": 1280,
+ "height": 720,
+ "sample_rate": 44100,
+ "channels": 2,
+ "channel_layout": 3,
+ "settings": {},
+ "clips": [],
+ "effects": [],
+ "export_path": "",
+ "import_path": "C:/Users/User/AppData/Local/Temp",
+ "files": [
+  {
+   "acodec": "aac",
+   "audio_bit_rate": 256000,
+   "audio_stream_index": 1,
+   "audio_timebase": {
+    "den": 48000,
+    "num": 1
+   },
+   "channel_layout": 3,
+   "channels": 2,
+   "display_ratio": {
+    "den": 9,
+    "num": 16
+   },
+   "duration": 955.4773559570312,
+   "file_size": "1747137613",
+   "fps": {
+    "den": 63656559,
+    "num": 1904556371
+   },
+   "has_audio": true,
+   "has_single_image": false,
+   "has_video": true,
+   "height": 1080,
+   "interlaced_frame": false,
+   "metadata": {
+    "com.android.capture.fps": "30.000000",
+    "com.android.version": "10",
+    "compatible_brands": "isommp42",
+    "creation_time": "2020-12-19T08:28:55.000000Z",
+    "handler_name": "SoundHandle",
+    "language": "eng",
+    "major_brand": "mp42",
+    "minor_version": "0",
+    "rotate": "180"
+   },
+   "path": "../AppData/Local/Temp/20201219_091258_IcEhrf",
+   "pixel_format": 0,
+   "pixel_ratio": {
+    "den": 1,
+    "num": 1
+   },
+   "sample_rate": 48000,
+   "top_field_first": true,
+   "type": "FFmpegReader",
+   "vcodec": "h264",
+   "video_bit_rate": 1828550,
+   "video_length": "28587",
+   "video_stream_index": 0,
+   "video_timebase": {
+    "den": 90000,
+    "num": 1
+   },
+   "width": 1920,
+   "media_type": "video",
+   "id": "JO83PRPGEP"
+  }
+ ],
+ "duration": 300,
+ "scale": 15,
+ "tick_pixels": 100,
+ "playhead_position": 0,
+ "profile": "HD 720p 30 fps",
+ "layers": [
+  {
+   "id": "L1",
+   "label": "",
+   "number": 1000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L2",
+   "label": "",
+   "number": 2000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L3",
+   "label": "",
+   "number": 3000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L4",
+   "label": "",
+   "number": 4000000,
+   "y": 0,
+   "lock": false
+  },
+  {
+   "id": "L5",
+   "label": "",
+   "number": 5000000,
+   "y": 0,
+   "lock": false
+  }
+ ],
+ "markers": [],
+ "progress": [],
+ "history": {
+  "undo": [],
+  "redo": []
+ },
+ "version": {
+  "openshot-qt": "2.5.1",
+  "libopenshot": "0.2.5"
+ }
+}

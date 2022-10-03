@@ -1,0 +1,2052 @@
+         app:INFO ------------------------------------------------
+         app:INFO             Sat Dec 19 07:02:55 2020            
+         app:INFO               Starting new session              
+         app:INFO ------------------------------------------------
+         app:INFO             OpenShot (version 2.5.1)            
+         app:INFO ------------------------------------------------
+         app:INFO openshot-qt version: 2.5.1
+         app:INFO libopenshot version: 0.2.5
+         app:INFO platform: Windows-10-10.0.18362
+         app:INFO processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+         app:INFO machine: AMD64
+         app:INFO python version: 3.7.4
+         app:INFO qt5 version: 5.12.4
+         app:INFO pyqt5 version: 5.12.3
+    language:INFO Qt Detected Languages: ['nl-NL', 'en-US']
+    language:INFO LANG Environment Variable: 
+    language:INFO LOCALE Environment Variable: 
+    language:INFO OpenShot Preference Language: Default
+project_data:INFO Setting default profile to HD 720p 30 fps
+         app:INFO Setting font to C:\Program Files\OpenShot Video Editor\images\fonts\Ubuntu-R.ttf
+logger_libopenshot:INFO Connecting to libopenshot with debug port: 5556
+         app:INFO Setting custom dark theme
+     ui_util:INFO Initializing UI for MainWindow
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+ files_model:INFO updating files model.
+transition_model:INFO updating transitions model.
+     version:INFO Found current version: {"openshot_version": "2.5.1"}
+effects_model:INFO updating effects model.
+ main_window:INFO foundCurrentVersion: Found the latest version: 2.5.1
+properties_model:INFO updating clip properties model.
+transition_model:INFO updating transitions model.
+ files_model:INFO updating files model.
+ main_window:INFO InitCacheSettings
+ main_window:INFO cache-mode: CacheMemory
+ main_window:INFO cache-limit-mb: 250
+ main_window:INFO Creating CacheMemory object with 262144000 byte limit
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+ main_window:INFO Clear all thumbnails: C:\Users\User\.openshot_qt\thumbnail
+ main_window:INFO Clear all animations: C:\Users\User\.openshot_qt\blender
+ main_window:INFO Clear all titles: C:\Users\User\.openshot_qt\title
+ main_window:INFO updateStatusChanged
+ main_window:INFO updateStatusChanged
+         app:INFO Process command-line arguments: ['C:\\Program Files\\OpenShot Video Editor\\openshot-qt.exe']
+ main_window:INFO recover_backup
+project_data:INFO Setting default profile to HD 720p 30 fps
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+video_widget:INFO Load: Set video widget display aspect ratio to: 1.7777777910232544
+video_widget:INFO Set video widget pixel aspect ratio to: 1.0
+ main_window:INFO updateStatusChanged
+preview_thread:INFO onModeChanged
+properties_model:INFO Update item: 
+properties_model:INFO updating clip properties model.
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(634, 357)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+timeline_webview:INFO Qt Found!
+timeline_webview:INFO $scope.Qt = true;
+timeline_webview:INFO SetThumbAddress: http://127.0.0.1:56110/thumbnails/
+timeline_webview:INFO UpdateLayerIndex
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(632, 356)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+ files_model:INFO updating files model.
+project_data:INFO _set key: ['files'] values: {'acodec': 'aac', 'audio_bit_rate': 256000, 'audio_stream_index': 1, 'audio_timebase': {'den': 48000, 'num': 1}, 'channel_layout': 3, 'channels': 2, 'display_ratio': {'den': 9, 'num': 16}, 'duration': 47.040000915527344, 'file_size': '93954203', 'fps': {'den': 706117, 'num': 21165000}, 'has_audio': True, 'has_single_image': False, 'has_video': True, 'height': 1080, 'interlaced_frame': False, 'metadata': {'com.android.capture.fps': '30.000000', 'com.android.version': '10', 'compatible_brands': 'isommp42', 'creation_time': '2020-12-19T06:59:15.000000Z', 'handler_name': 'SoundHandle', 'language': 'eng', 'major_brand': 'mp42', 'minor_version': '0', 'rotate': '90'}, 'path': 'C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_075827.mp4', 'pixel_format': 0, 'pixel_ratio': {'den': 1, 'num': 1}, 'sample_rate': 48000, 'top_field_first': True, 'type': 'FFmpegReader', 'vcodec': 'h264', 'video_bit_rate': 1995883, 'video_length': '1411', 'video_stream_index': 0, 'video_timebase': {'den': 90000, 'num': 1}, 'width': 1920, 'media_type': 'video', 'id': '2YUDOFA69U'} add: True partial: False remove: False
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+ main_window:INFO updateStatusChanged
+ files_model:INFO updating files model.
+project_data:INFO _set key: ['import_path'] values: C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje add: False partial: False remove: False
+ main_window:INFO updateStatusChanged
+ main_window:INFO Imported media file C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_075827.mp4
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+preview_thread:INFO onModeChanged
+preview_thread:INFO onModeChanged
+preview_thread:INFO onModeChanged
+preview_thread:INFO onModeChanged
+preview_thread:INFO previewFrame: 19
+preview_thread:INFO self.player.Position(): 19
+preview_thread:INFO previewFrame: 14
+preview_thread:INFO self.player.Position(): 14
+preview_thread:INFO previewFrame: 10
+preview_thread:INFO self.player.Position(): 10
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+preview_thread:INFO previewFrame: 19
+preview_thread:INFO self.player.Position(): 19
+preview_thread:INFO previewFrame: 24
+preview_thread:INFO self.player.Position(): 24
+preview_thread:INFO previewFrame: 28
+preview_thread:INFO self.player.Position(): 28
+preview_thread:INFO previewFrame: 41
+preview_thread:INFO self.player.Position(): 41
+preview_thread:INFO previewFrame: 51
+preview_thread:INFO self.player.Position(): 51
+preview_thread:INFO previewFrame: 55
+preview_thread:INFO self.player.Position(): 55
+preview_thread:INFO previewFrame: 60
+preview_thread:INFO self.player.Position(): 60
+preview_thread:INFO previewFrame: 69
+preview_thread:INFO self.player.Position(): 69
+preview_thread:INFO previewFrame: 78
+preview_thread:INFO self.player.Position(): 78
+preview_thread:INFO previewFrame: 82
+preview_thread:INFO self.player.Position(): 82
+preview_thread:INFO previewFrame: 96
+preview_thread:INFO self.player.Position(): 96
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+preview_thread:INFO previewFrame: 123
+preview_thread:INFO self.player.Position(): 123
+preview_thread:INFO previewFrame: 127
+preview_thread:INFO self.player.Position(): 127
+preview_thread:INFO previewFrame: 123
+preview_thread:INFO self.player.Position(): 123
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+preview_thread:INFO previewFrame: 96
+preview_thread:INFO self.player.Position(): 96
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+preview_thread:INFO previewFrame: 87
+preview_thread:INFO self.player.Position(): 87
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+preview_thread:INFO previewFrame: 96
+preview_thread:INFO self.player.Position(): 96
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+preview_thread:INFO previewFrame: 123
+preview_thread:INFO self.player.Position(): 123
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+preview_thread:INFO previewFrame: 96
+preview_thread:INFO self.player.Position(): 96
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+preview_thread:INFO previewFrame: 87
+preview_thread:INFO self.player.Position(): 87
+preview_thread:INFO previewFrame: 82
+preview_thread:INFO self.player.Position(): 82
+preview_thread:INFO previewFrame: 78
+preview_thread:INFO self.player.Position(): 78
+preview_thread:INFO previewFrame: 73
+preview_thread:INFO self.player.Position(): 73
+preview_thread:INFO previewFrame: 69
+preview_thread:INFO self.player.Position(): 69
+preview_thread:INFO previewFrame: 64
+preview_thread:INFO self.player.Position(): 64
+preview_thread:INFO previewFrame: 60
+preview_thread:INFO self.player.Position(): 60
+preview_thread:INFO previewFrame: 55
+preview_thread:INFO self.player.Position(): 55
+preview_thread:INFO previewFrame: 51
+preview_thread:INFO self.player.Position(): 51
+preview_thread:INFO previewFrame: 46
+preview_thread:INFO self.player.Position(): 46
+preview_thread:INFO previewFrame: 41
+preview_thread:INFO self.player.Position(): 41
+preview_thread:INFO previewFrame: 33
+preview_thread:INFO self.player.Position(): 33
+preview_thread:INFO previewFrame: 28
+preview_thread:INFO self.player.Position(): 28
+preview_thread:INFO previewFrame: 24
+preview_thread:INFO self.player.Position(): 24
+preview_thread:INFO previewFrame: 19
+preview_thread:INFO self.player.Position(): 19
+preview_thread:INFO previewFrame: 14
+preview_thread:INFO self.player.Position(): 14
+preview_thread:INFO previewFrame: 10
+preview_thread:INFO self.player.Position(): 10
+preview_thread:INFO previewFrame: 6
+preview_thread:INFO self.player.Position(): 6
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+ main_window:INFO actionPreviousMarker_trigger
+files_listview:INFO updateSelection
+ main_window:INFO actionPreview_File_trigger
+     ui_util:INFO Initializing UI for Dialog
+     cutting:INFO C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_075827.mp4
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+preview_thread:INFO onModeChanged
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(568, 320)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 2
+preview_thread:INFO self.player.Position(): 2
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO btnPlay_clicked
+     cutting:INFO play (icon to pause)
+preview_thread:INFO onModeChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO onModeChanged
+     cutting:INFO closeEvent
+preview_thread:INFO exiting thread
+files_listview:INFO updateSelection
+ main_window:INFO actionSplitClip_trigger
+     ui_util:INFO Initializing UI for Dialog
+     cutting:INFO C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_075827.mp4
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+preview_thread:INFO onModeChanged
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(568, 320)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 2
+preview_thread:INFO self.player.Position(): 2
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 4
+preview_thread:INFO self.player.Position(): 4
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 7
+preview_thread:INFO self.player.Position(): 7
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 13
+preview_thread:INFO self.player.Position(): 13
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 13
+preview_thread:INFO self.player.Position(): 13
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 19
+preview_thread:INFO self.player.Position(): 19
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 22
+preview_thread:INFO self.player.Position(): 22
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 25
+preview_thread:INFO self.player.Position(): 25
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 28
+preview_thread:INFO self.player.Position(): 28
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 31
+preview_thread:INFO self.player.Position(): 31
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 34
+preview_thread:INFO self.player.Position(): 34
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 37
+preview_thread:INFO self.player.Position(): 37
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 40
+preview_thread:INFO self.player.Position(): 40
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 43
+preview_thread:INFO self.player.Position(): 43
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 46
+preview_thread:INFO self.player.Position(): 46
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 49
+preview_thread:INFO self.player.Position(): 49
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 52
+preview_thread:INFO self.player.Position(): 52
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 55
+preview_thread:INFO self.player.Position(): 55
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 58
+preview_thread:INFO self.player.Position(): 58
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 61
+preview_thread:INFO self.player.Position(): 61
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 64
+preview_thread:INFO self.player.Position(): 64
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 67
+preview_thread:INFO self.player.Position(): 67
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 70
+preview_thread:INFO self.player.Position(): 70
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 73
+preview_thread:INFO self.player.Position(): 73
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 76
+preview_thread:INFO self.player.Position(): 76
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 79
+preview_thread:INFO self.player.Position(): 79
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 82
+preview_thread:INFO self.player.Position(): 82
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 85
+preview_thread:INFO self.player.Position(): 85
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 88
+preview_thread:INFO self.player.Position(): 88
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 94
+preview_thread:INFO self.player.Position(): 94
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 94
+preview_thread:INFO self.player.Position(): 94
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 97
+preview_thread:INFO self.player.Position(): 97
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 103
+preview_thread:INFO self.player.Position(): 103
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 106
+preview_thread:INFO self.player.Position(): 106
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 115
+preview_thread:INFO self.player.Position(): 115
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 121
+preview_thread:INFO self.player.Position(): 121
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 124
+preview_thread:INFO self.player.Position(): 124
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 130
+preview_thread:INFO self.player.Position(): 130
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 133
+preview_thread:INFO self.player.Position(): 133
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 139
+preview_thread:INFO self.player.Position(): 139
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 142
+preview_thread:INFO self.player.Position(): 142
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 145
+preview_thread:INFO self.player.Position(): 145
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 151
+preview_thread:INFO self.player.Position(): 151
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 157
+preview_thread:INFO self.player.Position(): 157
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 163
+preview_thread:INFO self.player.Position(): 163
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 166
+preview_thread:INFO self.player.Position(): 166
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 169
+preview_thread:INFO self.player.Position(): 169
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 172
+preview_thread:INFO self.player.Position(): 172
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 175
+preview_thread:INFO self.player.Position(): 175
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 178
+preview_thread:INFO self.player.Position(): 178
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 184
+preview_thread:INFO self.player.Position(): 184
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 184
+preview_thread:INFO self.player.Position(): 184
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 187
+preview_thread:INFO self.player.Position(): 187
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 190
+preview_thread:INFO self.player.Position(): 190
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 193
+preview_thread:INFO self.player.Position(): 193
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 196
+preview_thread:INFO self.player.Position(): 196
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 199
+preview_thread:INFO self.player.Position(): 199
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 202
+preview_thread:INFO self.player.Position(): 202
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 205
+preview_thread:INFO self.player.Position(): 205
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 208
+preview_thread:INFO self.player.Position(): 208
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 214
+preview_thread:INFO self.player.Position(): 214
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 220
+preview_thread:INFO self.player.Position(): 220
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 223
+preview_thread:INFO self.player.Position(): 223
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 226
+preview_thread:INFO self.player.Position(): 226
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 229
+preview_thread:INFO self.player.Position(): 229
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 235
+preview_thread:INFO self.player.Position(): 235
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 242
+preview_thread:INFO self.player.Position(): 242
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 245
+preview_thread:INFO self.player.Position(): 245
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 248
+preview_thread:INFO self.player.Position(): 248
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 251
+preview_thread:INFO self.player.Position(): 251
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 254
+preview_thread:INFO self.player.Position(): 254
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 257
+preview_thread:INFO self.player.Position(): 257
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 263
+preview_thread:INFO self.player.Position(): 263
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 266
+preview_thread:INFO self.player.Position(): 266
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 272
+preview_thread:INFO self.player.Position(): 272
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 272
+preview_thread:INFO self.player.Position(): 272
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 278
+preview_thread:INFO self.player.Position(): 278
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 281
+preview_thread:INFO self.player.Position(): 281
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 284
+preview_thread:INFO self.player.Position(): 284
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 290
+preview_thread:INFO self.player.Position(): 290
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 296
+preview_thread:INFO self.player.Position(): 296
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 299
+preview_thread:INFO self.player.Position(): 299
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 302
+preview_thread:INFO self.player.Position(): 302
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 305
+preview_thread:INFO self.player.Position(): 305
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 311
+preview_thread:INFO self.player.Position(): 311
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 314
+preview_thread:INFO self.player.Position(): 314
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 317
+preview_thread:INFO self.player.Position(): 317
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 320
+preview_thread:INFO self.player.Position(): 320
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 326
+preview_thread:INFO self.player.Position(): 326
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 332
+preview_thread:INFO self.player.Position(): 332
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 335
+preview_thread:INFO self.player.Position(): 335
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 341
+preview_thread:INFO self.player.Position(): 341
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 347
+preview_thread:INFO self.player.Position(): 347
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 350
+preview_thread:INFO self.player.Position(): 350
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 353
+preview_thread:INFO self.player.Position(): 353
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 356
+preview_thread:INFO self.player.Position(): 356
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 359
+preview_thread:INFO self.player.Position(): 359
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 362
+preview_thread:INFO self.player.Position(): 362
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 365
+preview_thread:INFO self.player.Position(): 365
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 368
+preview_thread:INFO self.player.Position(): 368
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 374
+preview_thread:INFO self.player.Position(): 374
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 377
+preview_thread:INFO self.player.Position(): 377
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 380
+preview_thread:INFO self.player.Position(): 380
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 386
+preview_thread:INFO self.player.Position(): 386
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 389
+preview_thread:INFO self.player.Position(): 389
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 398
+preview_thread:INFO self.player.Position(): 398
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 401
+preview_thread:INFO self.player.Position(): 401
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 410
+preview_thread:INFO self.player.Position(): 410
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 413
+preview_thread:INFO self.player.Position(): 413
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 419
+preview_thread:INFO self.player.Position(): 419
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 422
+preview_thread:INFO self.player.Position(): 422
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 428
+preview_thread:INFO self.player.Position(): 428
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 434
+preview_thread:INFO self.player.Position(): 434
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 437
+preview_thread:INFO self.player.Position(): 437
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 440
+preview_thread:INFO self.player.Position(): 440
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 446
+preview_thread:INFO self.player.Position(): 446
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 449
+preview_thread:INFO self.player.Position(): 449
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 458
+preview_thread:INFO self.player.Position(): 458
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 461
+preview_thread:INFO self.player.Position(): 461
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 470
+preview_thread:INFO self.player.Position(): 470
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 476
+preview_thread:INFO self.player.Position(): 476
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 485
+preview_thread:INFO self.player.Position(): 485
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 497
+preview_thread:INFO self.player.Position(): 497
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 503
+preview_thread:INFO self.player.Position(): 503
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 515
+preview_thread:INFO self.player.Position(): 515
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 524
+preview_thread:INFO self.player.Position(): 524
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 527
+preview_thread:INFO self.player.Position(): 527
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 533
+preview_thread:INFO self.player.Position(): 533
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 545
+preview_thread:INFO self.player.Position(): 545
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 551
+preview_thread:INFO self.player.Position(): 551
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 554
+preview_thread:INFO self.player.Position(): 554
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 563
+preview_thread:INFO self.player.Position(): 563
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 572
+preview_thread:INFO self.player.Position(): 572
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 575
+preview_thread:INFO self.player.Position(): 575
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 581
+preview_thread:INFO self.player.Position(): 581
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 584
+preview_thread:INFO self.player.Position(): 584
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 587
+preview_thread:INFO self.player.Position(): 587
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 590
+preview_thread:INFO self.player.Position(): 590
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 596
+preview_thread:INFO self.player.Position(): 596
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 599
+preview_thread:INFO self.player.Position(): 599
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 605
+preview_thread:INFO self.player.Position(): 605
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 608
+preview_thread:INFO self.player.Position(): 608
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 620
+preview_thread:INFO self.player.Position(): 620
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 626
+preview_thread:INFO self.player.Position(): 626
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 638
+preview_thread:INFO self.player.Position(): 638
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 644
+preview_thread:INFO self.player.Position(): 644
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 656
+preview_thread:INFO self.player.Position(): 656
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 662
+preview_thread:INFO self.player.Position(): 662
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 665
+preview_thread:INFO self.player.Position(): 665
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 671
+preview_thread:INFO self.player.Position(): 671
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 674
+preview_thread:INFO self.player.Position(): 674
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 677
+preview_thread:INFO self.player.Position(): 677
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 683
+preview_thread:INFO self.player.Position(): 683
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 686
+preview_thread:INFO self.player.Position(): 686
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 695
+preview_thread:INFO self.player.Position(): 695
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 698
+preview_thread:INFO self.player.Position(): 698
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 708
+preview_thread:INFO self.player.Position(): 708
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 711
+preview_thread:INFO self.player.Position(): 711
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 717
+preview_thread:INFO self.player.Position(): 717
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 723
+preview_thread:INFO self.player.Position(): 723
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 726
+preview_thread:INFO self.player.Position(): 726
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 729
+preview_thread:INFO self.player.Position(): 729
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 732
+preview_thread:INFO self.player.Position(): 732
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 735
+preview_thread:INFO self.player.Position(): 735
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 738
+preview_thread:INFO self.player.Position(): 738
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 741
+preview_thread:INFO self.player.Position(): 741
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 744
+preview_thread:INFO self.player.Position(): 744
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 747
+preview_thread:INFO self.player.Position(): 747
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 753
+preview_thread:INFO self.player.Position(): 753
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 756
+preview_thread:INFO self.player.Position(): 756
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 759
+preview_thread:INFO self.player.Position(): 759
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 765
+preview_thread:INFO self.player.Position(): 765
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 768
+preview_thread:INFO self.player.Position(): 768
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 774
+preview_thread:INFO self.player.Position(): 774
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 777
+preview_thread:INFO self.player.Position(): 777
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 777
+preview_thread:INFO self.player.Position(): 777
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 783
+preview_thread:INFO self.player.Position(): 783
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 786
+preview_thread:INFO self.player.Position(): 786
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 789
+preview_thread:INFO self.player.Position(): 789
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 792
+preview_thread:INFO self.player.Position(): 792
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 795
+preview_thread:INFO self.player.Position(): 795
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 798
+preview_thread:INFO self.player.Position(): 798
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 801
+preview_thread:INFO self.player.Position(): 801
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 804
+preview_thread:INFO self.player.Position(): 804
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 807
+preview_thread:INFO self.player.Position(): 807
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 813
+preview_thread:INFO self.player.Position(): 813
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 816
+preview_thread:INFO self.player.Position(): 816
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 819
+preview_thread:INFO self.player.Position(): 819
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 822
+preview_thread:INFO self.player.Position(): 822
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 825
+preview_thread:INFO self.player.Position(): 825
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 828
+preview_thread:INFO self.player.Position(): 828
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 831
+preview_thread:INFO self.player.Position(): 831
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 834
+preview_thread:INFO self.player.Position(): 834
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 837
+preview_thread:INFO self.player.Position(): 837
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 840
+preview_thread:INFO self.player.Position(): 840
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 843
+preview_thread:INFO self.player.Position(): 843
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 846
+preview_thread:INFO self.player.Position(): 846
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 849
+preview_thread:INFO self.player.Position(): 849
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 852
+preview_thread:INFO self.player.Position(): 852
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 852
+preview_thread:INFO self.player.Position(): 852
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 855
+preview_thread:INFO self.player.Position(): 855
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 858
+preview_thread:INFO self.player.Position(): 858
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 861
+preview_thread:INFO self.player.Position(): 861
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 864
+preview_thread:INFO self.player.Position(): 864
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 867
+preview_thread:INFO self.player.Position(): 867
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 876
+preview_thread:INFO self.player.Position(): 876
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 879
+preview_thread:INFO self.player.Position(): 879
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 882
+preview_thread:INFO self.player.Position(): 882
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 888
+preview_thread:INFO self.player.Position(): 888
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 891
+preview_thread:INFO self.player.Position(): 891
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 894
+preview_thread:INFO self.player.Position(): 894
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 897
+preview_thread:INFO self.player.Position(): 897
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 900
+preview_thread:INFO self.player.Position(): 900
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 906
+preview_thread:INFO self.player.Position(): 906
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 909
+preview_thread:INFO self.player.Position(): 909
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 915
+preview_thread:INFO self.player.Position(): 915
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 924
+preview_thread:INFO self.player.Position(): 924
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 930
+preview_thread:INFO self.player.Position(): 930
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 933
+preview_thread:INFO self.player.Position(): 933
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 939
+preview_thread:INFO self.player.Position(): 939
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 945
+preview_thread:INFO self.player.Position(): 945
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 948
+preview_thread:INFO self.player.Position(): 948
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 951
+preview_thread:INFO self.player.Position(): 951
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 957
+preview_thread:INFO self.player.Position(): 957
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 963
+preview_thread:INFO self.player.Position(): 963
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 966
+preview_thread:INFO self.player.Position(): 966
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 969
+preview_thread:INFO self.player.Position(): 969
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 969
+preview_thread:INFO self.player.Position(): 969
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 972
+preview_thread:INFO self.player.Position(): 972
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 981
+preview_thread:INFO self.player.Position(): 981
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 984
+preview_thread:INFO self.player.Position(): 984
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 987
+preview_thread:INFO self.player.Position(): 987
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 990
+preview_thread:INFO self.player.Position(): 990
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 996
+preview_thread:INFO self.player.Position(): 996
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1002
+preview_thread:INFO self.player.Position(): 1002
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1005
+preview_thread:INFO self.player.Position(): 1005
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1017
+preview_thread:INFO self.player.Position(): 1017
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1026
+preview_thread:INFO self.player.Position(): 1026
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1035
+preview_thread:INFO self.player.Position(): 1035
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1056
+preview_thread:INFO self.player.Position(): 1056
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1071
+preview_thread:INFO self.player.Position(): 1071
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1083
+preview_thread:INFO self.player.Position(): 1083
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1098
+preview_thread:INFO self.player.Position(): 1098
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1110
+preview_thread:INFO self.player.Position(): 1110
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1119
+preview_thread:INFO self.player.Position(): 1119
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1134
+preview_thread:INFO self.player.Position(): 1134
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1143
+preview_thread:INFO self.player.Position(): 1143
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1158
+preview_thread:INFO self.player.Position(): 1158
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1170
+preview_thread:INFO self.player.Position(): 1170
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1173
+preview_thread:INFO self.player.Position(): 1173
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1180
+preview_thread:INFO self.player.Position(): 1180
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1183
+preview_thread:INFO self.player.Position(): 1183
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1186
+preview_thread:INFO self.player.Position(): 1186
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1189
+preview_thread:INFO self.player.Position(): 1189
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1192
+preview_thread:INFO self.player.Position(): 1192
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1195
+preview_thread:INFO self.player.Position(): 1195
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1198
+preview_thread:INFO self.player.Position(): 1198
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1201
+preview_thread:INFO self.player.Position(): 1201
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1204
+preview_thread:INFO self.player.Position(): 1204
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1207
+preview_thread:INFO self.player.Position(): 1207
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1210
+preview_thread:INFO self.player.Position(): 1210
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1213
+preview_thread:INFO self.player.Position(): 1213
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1219
+preview_thread:INFO self.player.Position(): 1219
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1225
+preview_thread:INFO self.player.Position(): 1225
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1231
+preview_thread:INFO self.player.Position(): 1231
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1237
+preview_thread:INFO self.player.Position(): 1237
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1240
+preview_thread:INFO self.player.Position(): 1240
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1246
+preview_thread:INFO self.player.Position(): 1246
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1252
+preview_thread:INFO self.player.Position(): 1252
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1255
+preview_thread:INFO self.player.Position(): 1255
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1258
+preview_thread:INFO self.player.Position(): 1258
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1261
+preview_thread:INFO self.player.Position(): 1261
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1264
+preview_thread:INFO self.player.Position(): 1264
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1267
+preview_thread:INFO self.player.Position(): 1267
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1270
+preview_thread:INFO self.player.Position(): 1270
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1273
+preview_thread:INFO self.player.Position(): 1273
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1276
+preview_thread:INFO self.player.Position(): 1276
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1279
+preview_thread:INFO self.player.Position(): 1279
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1285
+preview_thread:INFO self.player.Position(): 1285
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1291
+preview_thread:INFO self.player.Position(): 1291
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1294
+preview_thread:INFO self.player.Position(): 1294
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1297
+preview_thread:INFO self.player.Position(): 1297
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1306
+preview_thread:INFO self.player.Position(): 1306
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1312
+preview_thread:INFO self.player.Position(): 1312
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1318
+preview_thread:INFO self.player.Position(): 1318
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1321
+preview_thread:INFO self.player.Position(): 1321
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1330
+preview_thread:INFO self.player.Position(): 1330
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1336
+preview_thread:INFO self.player.Position(): 1336
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1339
+preview_thread:INFO self.player.Position(): 1339
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1342
+preview_thread:INFO self.player.Position(): 1342
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1345
+preview_thread:INFO self.player.Position(): 1345
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1351
+preview_thread:INFO self.player.Position(): 1351
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1357
+preview_thread:INFO self.player.Position(): 1357
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1360
+preview_thread:INFO self.player.Position(): 1360
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1363
+preview_thread:INFO self.player.Position(): 1363
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1372
+preview_thread:INFO self.player.Position(): 1372
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1375
+preview_thread:INFO self.player.Position(): 1375
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1378
+preview_thread:INFO self.player.Position(): 1378
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1384
+preview_thread:INFO self.player.Position(): 1384
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1390
+preview_thread:INFO self.player.Position(): 1390
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1396
+preview_thread:INFO self.player.Position(): 1396
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1399
+preview_thread:INFO self.player.Position(): 1399
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1405
+preview_thread:INFO self.player.Position(): 1405
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1411
+preview_thread:INFO self.player.Position(): 1411
+     cutting:INFO closeEvent
+preview_thread:INFO exiting thread
+ main_window:INFO Cutting Cancelled
+files_listview:INFO updateSelection
+ main_window:INFO Show file properties
+     ui_util:INFO Initializing UI for Dialog
+file_properties:INFO (0, 'Onbekend')
+file_properties:INFO (4, 'Mono (1 kanaal)')
+file_properties:INFO (3, 'Stereo (2 kanalen)')
+file_properties:INFO (7, 'Surround (3 kanalen)')
+file_properties:INFO (1551, 'Surround (5.1 kanalen)')
+file_properties:INFO (1599, 'Surround (7.1 kanalen)')
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO File Properties Cancelled
+files_listview:INFO updateSelection
+ main_window:INFO actionPreview_File_trigger
+     ui_util:INFO Initializing UI for Dialog
+     cutting:INFO C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_075827.mp4
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+preview_thread:INFO onModeChanged
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(568, 320)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 2
+preview_thread:INFO self.player.Position(): 2
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO btnPlay_clicked
+     cutting:INFO play (icon to pause)
+preview_thread:INFO onModeChanged
+     cutting:INFO closeEvent
+preview_thread:INFO exiting thread
+files_listview:INFO updateSelection
+project_data:INFO _set key: ['files'] values: {'acodec': 'aac', 'audio_bit_rate': 256005, 'audio_stream_index': 1, 'audio_timebase': {'den': 48000, 'num': 1}, 'channel_layout': 3, 'channels': 2, 'display_ratio': {'den': 9, 'num': 16}, 'duration': 129.08799743652344, 'file_size': '167419946', 'fps': {'den': 2324173, 'num': 69462000}, 'has_audio': True, 'has_single_image': False, 'has_video': True, 'height': 1080, 'interlaced_frame': False, 'metadata': {'com.android.capture.fps': '30.000000', 'com.android.version': '10', 'compatible_brands': 'isommp42', 'creation_time': '2020-12-19T07:02:31.000000Z', 'handler_name': 'SoundHandle', 'language': 'eng', 'major_brand': 'mp42', 'minor_version': '0', 'rotate': '90'}, 'path': 'C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_080020.mp4', 'pixel_format': 0, 'pixel_ratio': {'den': 1, 'num': 1}, 'sample_rate': 48000, 'top_field_first': True, 'type': 'FFmpegReader', 'vcodec': 'h264', 'video_bit_rate': 1296612, 'video_length': '3859', 'video_stream_index': 0, 'video_timebase': {'den': 90000, 'num': 1}, 'width': 1920, 'media_type': 'video', 'id': '4WCBCLR82O'} add: True partial: False remove: False
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+ main_window:INFO updateStatusChanged
+ files_model:INFO updating files model.
+project_data:INFO _set key: ['import_path'] values: C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje add: False partial: False remove: False
+ main_window:INFO updateStatusChanged
+ main_window:INFO Imported media file C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_080020.mp4
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+files_listview:INFO updateSelection
+ main_window:INFO actionPreview_File_trigger
+     ui_util:INFO Initializing UI for Dialog
+     cutting:INFO C:/Users/User/Documents/Priscilla/Hogeschool tweede jaar/ortho-agogisch werken/filmpje/20201219_080020.mp4
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+preview_thread:INFO onModeChanged
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(568, 320)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 2
+preview_thread:INFO self.player.Position(): 2
+     cutting:INFO sliderVideo_valueChanged
+     cutting:INFO btnPlay_clicked
+     cutting:INFO pause (icon to play)
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+     cutting:INFO btnPlay_clicked
+     cutting:INFO play (icon to pause)
+preview_thread:INFO onModeChanged
+     cutting:INFO closeEvent
+preview_thread:INFO exiting thread
+files_listview:INFO updateSelection
+ main_window:INFO actionRemove_from_Project_trigger
+project_data:INFO _set key: ['files', {'id': '4WCBCLR82O'}] values: None add: False partial: False remove: True
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+ main_window:INFO updateStatusChanged
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+files_listview:INFO updateSelection
+ main_window:INFO Show file properties
+     ui_util:INFO Initializing UI for Dialog
+file_properties:INFO (0, 'Onbekend')
+file_properties:INFO (4, 'Mono (1 kanaal)')
+file_properties:INFO (3, 'Stereo (2 kanalen)')
+file_properties:INFO (7, 'Surround (3 kanalen)')
+file_properties:INFO (1551, 'Surround (5.1 kanalen)')
+file_properties:INFO (1599, 'Surround (7.1 kanalen)')
+ main_window:INFO File Properties Cancelled
+files_listview:INFO updateSelection
+ main_window:INFO actionRemove_from_Project_trigger
+project_data:INFO _set key: ['files', {'id': '2YUDOFA69U'}] values: None add: False partial: False remove: True
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+ main_window:INFO updateStatusChanged
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+files_listview:INFO updateSelection
+project_data:INFO _set key: ['files'] values: {'acodec': 'aac', 'audio_bit_rate': 256000, 'audio_stream_index': 1, 'audio_timebase': {'den': 48000, 'num': 1}, 'channel_layout': 3, 'channels': 2, 'display_ratio': {'den': 9, 'num': 16}, 'duration': 955.4773559570312, 'file_size': '1747137613', 'fps': {'den': 63656559, 'num': 1904556371}, 'has_audio': True, 'has_single_image': False, 'has_video': True, 'height': 1080, 'interlaced_frame': False, 'metadata': {'com.android.capture.fps': '30.000000', 'com.android.version': '10', 'compatible_brands': 'isommp42', 'creation_time': '2020-12-19T08:28:55.000000Z', 'handler_name': 'SoundHandle', 'language': 'eng', 'major_brand': 'mp42', 'minor_version': '0', 'rotate': '180'}, 'path': 'C:/Users/User/AppData/Local/Temp/20201219_091258_IcEhrf', 'pixel_format': 0, 'pixel_ratio': {'den': 1, 'num': 1}, 'sample_rate': 48000, 'top_field_first': True, 'type': 'FFmpegReader', 'vcodec': 'h264', 'video_bit_rate': 1828550, 'video_length': '28587', 'video_stream_index': 0, 'video_timebase': {'den': 90000, 'num': 1}, 'width': 1920, 'media_type': 'video', 'id': 'JO83PRPGEP'} add: True partial: False remove: False
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+ main_window:INFO updateStatusChanged
+ files_model:INFO updating files model.
+project_data:INFO _set key: ['import_path'] values: C:/Users/User/AppData/Local/Temp add: False partial: False remove: False
+ main_window:INFO updateStatusChanged
+ main_window:INFO Imported media file C:/Users/User/AppData/Local/Temp/20201219_091258_IcEhrf
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO Prompt user to save project
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+ main_window:INFO auto_save_project
+ main_window:INFO Creating backup of project file: C:\Users\User\.openshot_qt\backup.osp
+project_data:INFO Saving project file: C:\Users\User\.openshot_qt\backup.osp
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+ main_window:INFO ---------------- Shutting down -----------------
+preview_thread:INFO onModeChanged
+preview_thread:INFO exiting thread
+   thumbnail:INFO Shutting down thumbnail server: ('127.0.0.1', 56110)
+  exceptions:ERROR Unhandled Exception
+Traceback (most recent call last):
+  File "C:\Program Files\OpenShot Video Editor\windows\views\timeline_webview.py", line 2929, in render_cache_json
+    cache_object = get_app().window.timeline_sync.timeline.GetCache()
+AttributeError: 'NoneType' object has no attribute 'GetCache'
+         app:INFO             OpenShot's session ended            
+         app:INFO             Sat Dec 19 10:48:25 2020            
+         app:INFO ================================================

@@ -1,0 +1,462 @@
+
+
+Time: Mon May 25 07:32:11 2020 UTC
+LocalTime: Mon May 25 09:32:11 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.836.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12152; description: 'Unknown error code '12152''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	During CServerProbe::Execute while probing https-url-withheld
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Jul 27 12:56:31 2020 UTC
+LocalTime: Mon Jul 27 14:56:31 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.900.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpSendRequest; result code: 12007; description: 'Unknown error code '12007''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Sat Oct 17 14:54:16 2020 UTC
+LocalTime: Sat Oct 17 16:54:16 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1082.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Fri Oct 23 10:56:09 2020 UTC
+LocalTime: Fri Oct 23 12:56:09 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1082.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Tue Nov  3 13:15:48 2020 UTC
+LocalTime: Tue Nov  3 14:15:48 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1139.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Wed Nov 11 11:30:23 2020 UTC
+LocalTime: Wed Nov 11 12:30:23 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1139.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Sun Nov 29 20:20:17 2020 UTC
+LocalTime: Sun Nov 29 21:20:17 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1139.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Wed Dec  9 19:48:06 2020 UTC
+LocalTime: Wed Dec  9 20:48:06 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1139.18362.0
+Description: An unexpected error occurred.
+Exception type: System exception.
+Detail: ARGetNetworkLocationForStore (Receiver SDK API) call failed; status=0x3
+Context:
+	CAuthHttpRequestImpl::SendAndReceive
+
+
+Time: Sat Dec 12 17:57:18 2020 UTC
+LocalTime: Sat Dec 12 18:57:18 2020
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1198.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Jan  5 16:59:30 2021 UTC
+LocalTime: Tue Jan  5 17:59:30 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1198.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Fri Feb  5 09:46:02 2021 UTC
+LocalTime: Fri Feb  5 10:46:02 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1198.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Sat Feb 27 15:41:26 2021 UTC
+LocalTime: Sat Feb 27 16:41:26 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1198.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Thu Mar 11 18:03:42 2021 UTC
+LocalTime: Thu Mar 11 19:03:42 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.1198.18362.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Mar 30 09:27:50 2021 UTC
+LocalTime: Tue Mar 30 11:27:50 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Wed May  5 11:39:38 2021 UTC
+LocalTime: Wed May  5 13:39:38 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpSendRequest; result code: 12007; description: 'Unknown error code '12007''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue May 25 06:00:24 2021 UTC
+LocalTime: Tue May 25 08:00:24 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Sun Jun  6 09:34:09 2021 UTC
+LocalTime: Sun Jun  6 11:34:09 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::AuthenticateAndGetServerCertificate
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Jun 22 18:32:07 2021 UTC
+LocalTime: Tue Jun 22 20:32:07 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Jun 29 19:27:35 2021 UTC
+LocalTime: Tue Jun 29 21:27:35 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Sun Aug 15 16:46:39 2021 UTC
+LocalTime: Sun Aug 15 18:46:39 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Aug 23 04:09:31 2021 UTC
+LocalTime: Mon Aug 23 06:09:31 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Sep 20 07:01:44 2021 UTC
+LocalTime: Mon Sep 20 09:01:44 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::AuthenticateAndGetServerCertificate
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Sep 27 12:55:13 2021 UTC
+LocalTime: Mon Sep 27 14:55:13 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::AuthenticateAndGetServerCertificate
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Oct 12 12:55:18 2021 UTC
+LocalTime: Tue Oct 12 14:55:18 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Tue Oct 19 17:05:03 2021 UTC
+LocalTime: Tue Oct 19 19:05:03 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Fri Oct 29 07:35:50 2021 UTC
+LocalTime: Fri Oct 29 09:35:50 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::AuthenticateAndGetServerCertificate
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Mon Nov  8 11:00:27 2021 UTC
+LocalTime: Mon Nov  8 12:00:27 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
+
+Time: Wed Nov 17 13:51:14 2021 UTC
+LocalTime: Wed Nov 17 14:51:14 2021
+Type: Warning
+Module: Citrix Authentication Manager
+Location: C:\Program Files (x86)\Citrix\ICA Client\AuthManager\AuthManSvr.exe
+Version: 20.2.0.3 (Release)
+Platform: Windows 10.0.9200 64-bit  SP Version: 0.0 SuiteMask: 768 ProductType: 1 IE: 11.789.19041.0
+Description: There was a problem accessing the HTTP server.
+Exception type: HTTP exception
+Detail: WinHttpReceiveResponse; result code: 12002; description: 'Unknown error code '12002''; url: 'https-url-withheld'
+Context:
+	CWindowsHttpTransaction2::CheckedSendAndReceive url='https-url-withheld'
+	CServerCertificateProbe::GetServerCertificate
+	CAuthManImpl::GetServerCertificate
+
+URLs have been stripped from this log message. To allow URLs in the log, set the logging mode to 'verbose'.
